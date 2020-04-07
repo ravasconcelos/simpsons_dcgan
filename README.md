@@ -12,9 +12,16 @@ The model was converted to Keras.
 
 The Notebook is dcgan_simpsons_experiment1.ipynb.
 
+This is the result:
+
+![Images during training](https://github.com/ravasconcelos/simpsons_dcgan/blob/master/dcgan_simpsons_experiment1.git?raw=true)
+
 # Experiment 2
 The baseline was the TensorFlow Tutorial for DCGAN:
 https://www.tensorflow.org/tutorials/generative/dcgan
 
 The Notebook is dcgan_simpsons_experiment2.ipynb.
 
+This is the result:
+
+![Images during training](https://github.com/ravasconcelos/simpsons_dcgan/blob/master/dcgan_simpsons_experiment2.git?raw=true)
